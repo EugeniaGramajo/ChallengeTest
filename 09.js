@@ -14,7 +14,6 @@ function repetirCaracteres() {
   // Tu código aca:
 
 }
-
 // No modifiques nada debajo de esta linea //
 
 module.exports = repetirCaracteres

@@ -14,7 +14,6 @@ function actividadesEnComun(persona1, persona2) {
   // Tu código aca:
 
 }
-
 // No modifiques nada debajo de esta linea //
 
 

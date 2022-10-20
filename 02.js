@@ -32,9 +32,8 @@ function cuantosOnline(usuarios) {
 
   // Tu código aca:
 
+
 }
-
-
 // No modifiques nada debajo de esta linea //
 
 module.exports = cuantosOnline
